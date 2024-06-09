@@ -1,1 +1,1 @@
-# PLoSCompBio_Tabi_et_al_2023
+Code to reproduce the results in A Tabi, LJ Gilarranz, SA Wood, JA Dunne, S Saavedra, 2023. Protection increases energetically efficient structures in marine communities. PLOS Computational Biology, 19(12): e1011742. https://doi.org/10.1371/journal.pcbi.1011742 
